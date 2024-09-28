@@ -26,6 +26,25 @@ Machine learning models were used to predict the rheological behavior of magneto
 
 ---
 
+### 2. Teaching Assistant Experience in Optimization Algorithms
+As a **Teaching Assistant** for the course "Optimization of Chemical Engineering Processes" at **Iran University of Science and Technology (IUST)**, I guided students through various optimization algorithms. These algorithms included both **heuristic** and **meta-heuristic** approaches, with the implementation primarily done using **MATLAB**.
+
+#### Key Categories of Optimization Algorithms Covered
+
+- **Heuristic Algorithms**:
+  - These are problem-specific algorithms designed to find approximate solutions to complex problems quickly. They include simple optimization techniques that offer practical solutions for engineering problems.
+  - **Example**: **Gradient Descent**, one of the simplest and most widely used optimization algorithms, particularly in machine learning, which minimizes a function by iteratively moving towards the steepest descent as defined by the gradient of the function.
+
+- **Meta-Heuristic Algorithms**:
+  - **Meta-heuristic** algorithms are higher-level strategies designed to explore a wide search space and provide near-optimal solutions for complex optimization problems.
+  - **Example**: 
+    - **Genetic Algorithm (GA)**: A powerful evolutionary algorithm that mimics the process of natural selection to find optimal solutions by iteratively evolving a population of solutions.
+    - **Bee Colony Optimization**: A swarm-based algorithm inspired by the foraging behavior of bees, used to find optimal solutions by simulating the exploration and exploitation phases in a population of solutions.
+
+The course emphasized both the theoretical understanding and practical application of these algorithms. I demonstrated how to apply **Genetic Algorithms**, **Bee Colony Optimization**, and simple optimization algorithms like **Gradient Descent** to real-world chemical engineering problems, such as reactor optimization, energy consumption minimization, and improving process yields.
+
+---
+
 ## Paper Reference
 This repository is based on the findings presented in my paper:
 
@@ -36,5 +55,4 @@ This repository is based on the findings presented in my paper:
 ---
 
 ## Acknowledgments
-This work was conducted as part of my research at **Iran University of Science and Technology (IUST)**. The project reflects my interest in using machine learning techniques to model the behavior of magnetorheological fluids under different conditions.
-
+This work was conducted as part of my research at **Iran University of Science and Technology (IUST)**. The project reflects my interest in using machine learning techniques to model the behavior of magnetorheological fluids under different conditions, as well as my experience in teaching optimization algorithms for chemical engineering processes.
