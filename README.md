@@ -49,7 +49,7 @@ This repository is based on the findings presented in my paper:
 
 **"Application of Artificial Neural Networks and Support Vector Regression Modeling in Prediction of Magnetorheological Fluid Rheometry"**, published in *Colloids and Surfaces A: Physicochemical and Engineering Aspects*. The paper focuses on developing intelligent models using **ANN** and **SVR** to predict the rheological behavior of MRFs under varying conditions of shear rate, magnetic field strength, and temperature.
 
-- You can access the full paper [here](https://doi.org/10.1016/j.colsurfa.2017.01.081).
+- You can access the full paper [here](https://www.sciencedirect.com/science/article/pii/S0927775717301176?via%3Dihub).
 
 ---
 
