@@ -1,18 +1,17 @@
-# Rheological Fluid Neural Network Modeling (2014-2016)
+# Rheological Fluid Behavior Using Neural Network Modeling (2014-2016)
 
 ## Overview
-This repository documents the use of **Artificial Neural Networks (ANN)** and **Support Vector Regression (SVR)** to predict the rheological properties of magnetorheological fluids (MRF). The work was completed as part of my research during 2014-2016. The models were developed to predict the behavior of MRF under varying temperature and magnetic field conditions.
+This repository documents the use of **Artificial Neural Networks (ANN)** and **Support Vector Regression (SVR)** to predict the rheological properties of magnetorheological fluids (MRF). The work was completed as part of my master's thesis research during 2014-2016. The models were developed to predict the behaviour of Rheological Fluid under varying, shear stress, shear rate, temperature and magnetic field conditions.
 
 ### Purpose
-The primary aim of this project was to model the complex behavior of MRF using machine learning techniques. Specifically, we predicted the fluid's rheological properties, including shear stress and dynamic yield stress, at low shear rates where traditional models struggle to perform accurately.
+The primary aim of this project was to model the complex behavior of magnetorheological fluids (MRF) using machine learning techniques. Specifically, we aimed to predict the fluid's rheological properties, including shear stress and dynamic yield stress, at low shear rates, where traditional models struggle to perform accurately. Additionally, there was a challenge in which the rheometer instrument could not measure shear stress accurately at low shear rates. However, with specific data inputs, the neural network was able to provide good predictions for modeling the properties under low shear conditions.
 
 ---
 
 ## Technologies and Tools Used
 The following tools and software were utilized in this project:
 
-- **MATLAB**: For developing and training **ANN** and **SVR** models to predict fluid behavior based on experimental rheometry data.
-
+- **MATLAB**: Used for developing and training **ANN** and **SVR** models models to predict fluid behavior based on experimental rheometry data, and to estimate properties at low shear rates.
 ---
 
 ## Key Project Highlights
@@ -55,4 +54,4 @@ This repository is based on the findings presented in my paper:
 ---
 
 ## Acknowledgments
-This work was conducted as part of my research at **Iran University of Science and Technology (IUST)**. The project reflects my interest in using machine learning techniques to model the behavior of magnetorheological fluids under different conditions, as well as my experience in teaching optimization algorithms for chemical engineering processes.
+This work was conducted as part of my y master's thesis research at **Iran University of Science and Technology (IUST)**. The project reflects my interest in using machine learning techniques to model the behavior of magnetorheological fluids under different conditions, as well as my experience in teaching optimization algorithms for chemical engineering processes.
